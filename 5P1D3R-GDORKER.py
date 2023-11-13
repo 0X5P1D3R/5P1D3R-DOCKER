@@ -11,7 +11,6 @@ print (colored('''
  ___) | |  __/  | | | |_| |  ___) | |  _ <  |_____| | |_| | |_| | |_| |  _ <| . \| |___|  _ < 
 |____/  |_|     |_| |____/  |____/  |_| \_\          \____|____/ \___/|_| \_\_|\_\_____|_| \_\
 
-
 ''', 'cyan'))
 from termcolor import colored
 from googlesearch import search
