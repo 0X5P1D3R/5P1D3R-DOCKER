@@ -1,4 +1,4 @@
-# 5P1D3R-DOCKER
+# 5P1D3R-GDORKER
 Description
 The 5P1D3R-GDORKER is a Python-based command-line utility that leverages Google search operators to perform advanced searches. 
 It's designed to help users efficiently gather information from the web by using specialized search queries.
