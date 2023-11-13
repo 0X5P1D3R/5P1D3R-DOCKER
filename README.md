@@ -15,7 +15,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone [repository URL]
+git clone https://github.com/0X5P1D3R/5P1D3R-GDORKER
 Install the required libraries:
 sh
 Copy code
@@ -25,7 +25,7 @@ Run the script with the desired parameters:
 
 sh
 Copy code
-python google_dorking_tool.py -o [operator] -d [domain] -n [number_of_results]
+python 5P1D3R-GDORKER.py -o [operator] -d [domain] -n [number_of_results]
 Example:
 
 sh
