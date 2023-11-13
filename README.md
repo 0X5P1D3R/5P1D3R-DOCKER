@@ -30,7 +30,7 @@ Example:
 
 sh
 Copy code
-python google_dorking_tool.py -o filetype:pdf -d example.com -n 5
+python 5P1D3R-GDORKER.py -o filetype:pdf -d example.com -n 5
 The results will be saved in a text file named [domain].txt.
 
 Supported Operators
