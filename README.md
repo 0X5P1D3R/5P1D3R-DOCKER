@@ -10,7 +10,7 @@ Outputs the results to a text file for easy review and analysis.
 
 ## Requirements
 Python 3.x
-Libraries: googlesearch, urllib, termcolor, argparse, subprocess
+Libraries: beautifulsoup4, google, googlesearch-python, urllib, termcolor, argparse, subprocess
 ## Installation
 Clone the repository:
 `git clone https://github.com/0X5P1D3R/5P1D3R-GDORKER`
